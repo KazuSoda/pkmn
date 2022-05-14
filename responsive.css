@@ -154,14 +154,14 @@
         text-align: center; 
         width: 100%; 
         color: white; 
-        font-size: 5px; 
+        font-size: 9px; 
         border: white 1px solid;
     }
     .eps td{
         border: white 1px solid;
     }
     .eps img{
-        max-width: 20px;
+        max-width: 10px;
         padding-top:2px;
         padding-bottom: 2px;
     }
@@ -572,5 +572,98 @@
     }
     .cycleb:hover{
         background: darkred;
+    }
+    .bilan{
+        font-size: 10px;
+    }
+    .s1  {
+         font-size: 10px;
+    }
+    .s2  {
+         font-size: 10px;
+    }
+    .s3  {
+         font-size: 10px;
+    }
+    .s4  {
+         font-size: 10px;
+    }
+    .s5  {
+         font-size: 10px;
+    }
+    .s6  {
+         font-size: 10px;
+    }
+    .s7  {
+         font-size: 10px;
+    }
+    .s8  {
+         font-size: 10px;
+    }
+    .s9  {
+         font-size: 10px;
+    }
+    .s10  {
+         font-size: 10px;
+    }
+    .s11  {
+         font-size: 10px;
+    }
+    .s12  {
+         font-size: 10px;
+    }
+    .s13  {
+         font-size: 10px;
+    }
+    .s14  {
+         font-size: 10px;
+    }
+    .s15  {
+         font-size: 10px;
+    }
+    .s16  {
+         font-size: 10px;
+    }
+    .s17  {
+         font-size: 10px;
+    }
+    .s18  {
+         font-size: 10px;
+    }
+    .s19  {
+         font-size: 10px;
+    }
+    .s20  {
+         font-size: 10px;
+    }
+    .s21  {
+         font-size: 10px;
+    }
+    .s22  {
+         font-size: 10px;
+    }
+    .s23  {
+         font-size: 10px;
+    }
+    .s24  {
+         font-size: 10px;
+    }
+    .s25  {
+         font-size: 10px;
+    }
+    .sog  {
+         font-size: 10px;
+    }
+    .sev  {
+         font-size: 10px;
+    }
+    .sge  {
+         font-size: 10px;
+    }
+    .sac  {
+         font-size: 10px;
+    }
+    .ch  {
+         font-size: 10px;
     }
 }
