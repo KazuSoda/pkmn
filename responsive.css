@@ -161,7 +161,7 @@
         border: white 1px solid;
     }
     .eps img{
-        max-width: 10px;
+        max-width: 15px;
         padding-top:2px;
         padding-bottom: 2px;
     }
@@ -549,7 +549,7 @@
         background: #5a5858;
         border:none;
         font-family: "Futura", serif;
-        font-size: 15px;
+        font-size: 9px;
     }
     .eca .linkto{
         background: rgb(207, 165, 47);
