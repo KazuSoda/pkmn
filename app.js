@@ -223,3 +223,48 @@ divInfo.style.display = 'flex';
 else
 divInfo.style.display = 'none';
 }
+function AfficherMasquer25()
+{
+divInfo = document.getElementById('saison25');
+ 
+if (divInfo.style.display == 'none')
+divInfo.style.display = 'flex';
+else
+divInfo.style.display = 'none';
+}
+function AfficherMasquerOG()
+{
+divInfo = document.getElementById('saisonog');
+ 
+if (divInfo.style.display == 'none')
+divInfo.style.display = 'flex';
+else
+divInfo.style.display = 'none';
+}
+function AfficherMasquerGE()
+{
+divInfo = document.getElementById('saisonge');
+ 
+if (divInfo.style.display == 'none')
+divInfo.style.display = 'flex';
+else
+divInfo.style.display = 'none';
+}
+function AfficherMasquerAC()
+{
+divInfo = document.getElementById('saisonac');
+ 
+if (divInfo.style.display == 'none')
+divInfo.style.display = 'flex';
+else
+divInfo.style.display = 'none';
+}
+function AfficherMasquerEV()
+{
+divInfo = document.getElementById('saisonev');
+ 
+if (divInfo.style.display == 'none')
+divInfo.style.display = 'flex';
+else
+divInfo.style.display = 'none';
+}

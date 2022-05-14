@@ -555,6 +555,9 @@ body,ul{
 	flex-direction: column;
 	padding-bottom: 25px;
 }
+.ch img{
+	width: 400px;
+}
 .ch h1{
 	font-size: 38px;
 	letter-spacing: 4px;
@@ -582,6 +585,93 @@ body,ul{
 	color:white;
 	flex-direction: column;
 	padding-bottom: 25px;
+}
+.s1 img{
+	width:400px;
+}
+.s2 img{
+	width:400px;
+}
+.s3 img{
+	width:400px;
+}
+.s4 img{
+	width:400px;
+}
+.s5 img{
+	width:400px;
+}
+.s6 img{
+	width:400px;
+}
+.s7 img{
+	width:400px;
+}
+.s8 img{
+	width:400px;
+}
+.s9 img{
+	width:400px;
+}
+.s10 img{
+	width:400px;
+}
+.s11 img{
+	width:400px;
+}
+.s12 img{
+	width:400px;
+}
+.s13 img{
+	width:400px;
+}
+.s14 img{
+	width:400px;
+}
+.s15 img{
+	width:400px;
+}
+.s16 img{
+	width:400px;
+}
+.s17 img{
+	width:400px;
+}
+.s18 img{
+	width:400px;
+}
+.s19 img{
+	width:400px;
+}
+.s20 img{
+	width:400px;
+}
+.s21 img{
+	width:400px;
+}
+.s22 img{
+	width:400px;
+}
+.s23 img{
+	width:400px;
+}
+.s24 img{
+	width:400px;
+}
+.s25 img{
+	width:400px;
+}
+.sog img{
+	width:400px;
+}
+.sev img{
+	width:400px;
+}
+.sge img{
+	width:400px;
+}
+.sac img{
+	width:400px;
 }
 .s6 h1{
 	font-size: 38px;
@@ -1076,6 +1166,7 @@ body,ul{
 .saison24 img{
 	width: 200px;
 }
+
 .s24{
 	display:flex;
 	justify-content: center;
@@ -1088,6 +1179,146 @@ body,ul{
 	padding-bottom: 25px;
 }
 .s24 h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.saison25{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.saison25 img{
+	width: 200px;
+}
+.s25{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(5, 6, 68),rgb(4, 82, 252));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.s25 h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.saisonog{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.saisonog img{
+	width: 200px;
+}
+.sog{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(139,0,0),rgb(233,150,122));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.sog h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.saisonge{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.saisonge img{
+	width: 200px;
+}
+.sge{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(0,100,0),rgb(173,255,47));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.sge h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.saisonac{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.saisonac img{
+	width: 200px;
+}
+.sac{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(148,0,211),rgb(186,85,211));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.sac h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.saisonev{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.saisonev img{
+	width: 200px;
+}
+.sev{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(126, 44, 30),rgb(255,127,80));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.sev h1{
 	font-size: 38px;
 	letter-spacing: 4px;
 	padding-top:25px;
