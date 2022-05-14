@@ -150,4 +150,432 @@
     .ch img{
         width:200px;
     }
+    .eps{
+        text-align: center; 
+        width: 100%; 
+        color: white; 
+        font-size: 14px; 
+        border: white 1px solid;
+    }
+    .eps td{
+        border: white 1px solid;
+    }
+    .eps img{
+        max-width: 20px;
+        padding-top:2px;
+        padding-bottom: 2px;
+    }
+    .légende{
+        margin-top: 20px;
+        display:flex;
+        flex-direction: column;
+        font-size: 12px;
+    }
+    .légende p{
+        padding-right: 50px;
+    }
+    .ball{
+        max-width: 25px;
+        padding-right: 10px;
+    }
+    .saison1{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison2{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison3{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison4{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison5{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison6{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison7{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison8{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison9{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison10{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison11{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison12{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison13{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison14{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison15{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison16{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison17{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison18{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison19{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison20{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison21{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison22{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison23{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison24{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saison25{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .chronicles{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saisonac{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saisonge{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saisonog{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .saisonev{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .bilanep{
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top:75px;
+        padding-bottom:150px;
+        display:flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .aidenav{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        color:white;
+        background: darkslategrey;
+    }
+    .aidenav h1{
+        font-weight: 100;
+        font-size: 20px;
+    }
+    .lescycles{
+        display:flex;
+        background-color: darkslategrey;
+        text-align: center;
+        font-size: 15px;
+        width: 100%;
+        flex-direction: column;
+        padding-bottom: 25px;
+    }
+    .cycle{
+        padding-left: 2px;
+        padding-right: 2px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .cycle a{
+        color:white;
+        text-decoration: none;
+    }
+    .linkto{
+        text-decoration: none;
+        color:white;
+        background: #5a5858;
+        border:none;
+        font-family: "Futura", serif;
+        font-size: 15px;
+    }
+    .eca .linkto{
+        background: rgb(207, 165, 47);
+    }
+    .completed .linkto{
+        background: green;
+    }
+    .cycleb{
+        text-decoration: none;
+        color:white;
+        background: darkcyan;
+        border:none;
+        font-family: "Futura", serif;
+        font-size: 16px;
+    }
+    .sep{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cycleb:hover{
+        background: darkred;
+    }
 }

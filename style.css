@@ -1,11 +1,11 @@
 @font-face {
 	font-family: "Futura";
-	src: url("fonts/Futura.ttf");
+	src: url("fonts/Futura Condensed Medium.otf") format('otf');
 }
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
 @font-face {
 	font-family: "Trebuchet MS";
-	src: url("fonts/Trebuchet.ttf");
+	src: url("fonts/trebuc.ttf") format('ttf');
 }
 /*HEADER*/
 header{
@@ -1348,6 +1348,7 @@ body,ul{
 	justify-content: space-between;
 	flex-direction: column;
 }
+
 .bilanep a{
 	text-decoration: none;
 	color:white;
@@ -1536,4 +1537,75 @@ body,ul{
 .sous-titre{
 	font-size: 140%;
 	padding-top: 5px;
+}
+.cycle1:hover .cycle1r{
+	display:block;
+}
+.aidenav{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color:white;
+	background: darkslategrey;
+}
+.aidenav h1{
+	font-weight: 100;
+	font-size: 35px;
+}
+.lescycles{
+	display:flex;
+	background-color: darkslategrey;
+	text-align: center;
+	justify-content: center;
+	font-size: 15px;
+	width: 100%;
+	flex-direction: row;
+	padding-bottom: 25px;
+}
+.cycle{
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.cycle a{
+	color:white;
+	text-decoration: none;
+}
+.linkto{
+	text-decoration: none;
+	color:white;
+	background: #5a5858;
+	border:none;
+	font-family: "Futura", serif;
+	font-size: 25px; 
+}
+.linkto:hover{
+	cursor:pointer;
+	color:darkred;
+	font-weight: bold;
+}
+.eca .linkto{
+	background: rgb(207, 165, 47);
+}
+.completed .linkto{
+	background: green;
+}
+.cycleb{
+	text-decoration: none;
+	color:white;
+	background: darkcyan;
+	border:none;
+	font-family: "Futura", serif;
+	font-size: 25px;
+}
+.sep{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cycleb:hover{
+	background: darkred;
+	cursor:pointer;
 }
