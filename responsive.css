@@ -28,13 +28,15 @@
     .slide1{
         display:flex;
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: center;
+        align-items: center;
         background: linear-gradient(to right,rgb(20, 52, 164),rgb(100, 149, 237));
         padding-top: 0px;
         padding-bottom: 60px;
-        padding-left: 80px;
-        padding-right: 80px;
+        padding-left: 0px;
+        padding-right: 0px;
     }
+
     .lireinfos{
         background-color: darkred;
         box-align: center;
@@ -55,7 +57,7 @@
     .couv{
         max-width: 300px;
         padding-top: 80px;
-        padding-right:20px;
+        padding-right:0px;
         filter:drop-shadow(30px -30px 4px rgba(0,0,0,0.2));
     }
 }
