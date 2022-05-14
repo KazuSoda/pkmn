@@ -532,6 +532,34 @@ body,ul{
 	letter-spacing: 4px;
 	padding-top:25px;
 }
+.chronicles{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.chronicles img{
+	width: 200px;
+}
+.ch{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(2, 64, 100),rgb(3, 154, 255));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.ch h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
 .saison6{
 	padding-left: 50px;
 	padding-right: 50px;
@@ -1088,6 +1116,13 @@ body,ul{
 	display:flex;
 	justify-content: space-between;
 	flex-direction: column;
+}
+.bilanep a{
+	text-decoration: none;
+	color:white;
+}
+.bilanep a:hover{
+	color:yellow;
 }
 .bilanep img{
 	width: 200px;

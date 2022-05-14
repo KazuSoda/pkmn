@@ -43,6 +43,15 @@ divInfo.style.display = 'flex';
 else
 divInfo.style.display = 'none';
 }
+function AfficherMasquerChr()
+{
+divInfo = document.getElementById('chronicles');
+ 
+if (divInfo.style.display == 'none')
+divInfo.style.display = 'flex';
+else
+divInfo.style.display = 'none';
+}
 function AfficherMasquer6()
 {
 divInfo = document.getElementById('saison6');
