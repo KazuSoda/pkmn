@@ -42,7 +42,7 @@
         box-align: center;
         text-align: center;
         border: solid crimson;
-        width: 180px;
+        width: 150px;
         margin-top: 10px;
         padding-top:10px;
         padding-bottom:10px;
@@ -51,7 +51,7 @@
         border-radius: 10px;
         margin-bottom: 10px;
         color:white;
-        font-size: 25px;
+        font-size: 21px;
         text-decoration: none;
     }
     .couv{
@@ -148,6 +148,9 @@
         width:200px;
     }
     .ch img{
+        width:200px;
+    }
+    .snh img{
         width:200px;
     }
     .eps{
@@ -508,6 +511,17 @@
         justify-content: space-between;
         flex-direction: column;
     }
+    .saisonnh{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:75px;
+        padding-bottom:25px;
+        margin-left:10px;
+        margin-right:10px;
+        display:none;
+        justify-content: space-between;
+        flex-direction: column;
+    }
     .bilanep{
         padding-left: 0px;
         padding-right: 0px;
@@ -516,9 +530,6 @@
         display:flex;
         justify-content: space-between;
         flex-direction: column;
-    }
-    .aidenav{
-        display:none;
     }
     .aidenav h1{
         font-weight: 100;
@@ -563,7 +574,7 @@
         background: darkcyan;
         border:none;
         font-family: "Futura", serif;
-        font-size: 16px;
+        font-size: 12px;
     }
     .sep{
         display: flex;
@@ -657,6 +668,9 @@
     .sev  {
          font-size: 10px;
     }
+    .snh  {
+        font-size: 10px;
+   }
     .sge  {
          font-size: 10px;
     }

@@ -238,6 +238,14 @@ function AfficherMasquerEV() {
     else
         divInfo.style.display = 'none';
 }
+function AfficherMasquerNH() {
+    divInfo = document.getElementById('saisonnh');
+
+    if (divInfo.style.display == 'none')
+        divInfo.style.display = 'flex';
+    else
+        divInfo.style.display = 'none';
+}
 function ScrollTo1() {
     document.getElementById("Saison1").scrollIntoView({ behavior: "smooth" });
 }
@@ -327,4 +335,7 @@ function ScrollToEV() {
 }
 function ScrollToOG() {
     document.getElementById("SaisonOG").scrollIntoView({ behavior: "smooth" });
+}
+function ScrollToNH() {
+    document.getElementById("SaisonNH").scrollIntoView({ behavior: "smooth" });
 }

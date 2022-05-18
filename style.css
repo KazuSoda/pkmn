@@ -1,12 +1,5 @@
-@font-face {
-	font-family: "Futura";
-	src: url("fonts/Futura Condensed Medium.otf") format('otf');
-}
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
-@font-face {
-	font-family: "Trebuchet MS";
-	src: url("fonts/trebuc.ttf") format('ttf');
-}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 /*HEADER*/
 header{
 	background: black;
@@ -39,7 +32,7 @@ footer{
 	justify-content: space-between;
 }
 nav {
-	font-family:'Trebuchet MS';
+	font-family: "Open Sans", sans-serif;
 	font-weight: bold;
 }
 .navbar{
@@ -101,7 +94,7 @@ nav {
 }
 /*BODY*/
 body{
-	font-family: "Futura", serif;
+	font-family: "Open Sans", sans-serif;
 }
 body,ul{
 	margin: 0;
@@ -263,7 +256,7 @@ body,ul{
 	color:white;
 	font-size: 15px;
 	text-decoration: none;
-	font-family: "Trebuchet MS";
+	font-family: "Open Sans", sans-serif;
 }
 .affichage:hover{
 	color:rgb(240, 195, 0);
@@ -671,6 +664,9 @@ body,ul{
 	width:400px;
 }
 .sac img{
+	width:400px;
+}
+.snh img{
 	width:400px;
 }
 .s6 h1{
@@ -1323,6 +1319,35 @@ body,ul{
 	letter-spacing: 4px;
 	padding-top:25px;
 }
+.saisonnh{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.saisonnh img{
+	width: 200px;
+}
+.snh{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(177, 156, 217),rgb(255, 255, 255));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.snh h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+
 .bilan{
 	display:flex;
 	justify-content: center;
@@ -1578,7 +1603,7 @@ body,ul{
 	color:white;
 	background: #5a5858;
 	border:none;
-	font-family: "Futura", serif;
+	font-family: "O";
 	font-size: 25px; 
 }
 .linkto:hover{
@@ -1597,7 +1622,7 @@ body,ul{
 	color:white;
 	background: darkcyan;
 	border:none;
-	font-family: "Futura", serif;
+	font-family: "Open Sans", sans-serif;
 	font-size: 25px;
 }
 .sep{
