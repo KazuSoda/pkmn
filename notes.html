@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" type="text/css" href="responsive.css">
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Pokémon - Liste des épisodes</title>
+	<link rel="icon" type="image/png" sizes="16x16" href="img/icon.png">
+</head>
+
+<body>
+	<header>
+		<section class="menu">
+			<span class="logopad"><img class="logo" src="img/logo.png" /></span>
+			<nav>
+				<section class="navbar">
+					<a href="index.html">Accueil</a>
+					<a href="episodes.html">Liste épisodes</a>
+					<a href="notes.html">Notes/Détails</a>
+				</section>
+			</nav>
+		</section>
+	</header>
+	<section class="aidenav">
+		<section>
+			<h1>Aide à la navigation</h1>
+		</section>
+		<section class="lescycles">
+			<section class="sep">
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle 1 - Kanto & Johto"
+						onClick="ScrollTo1()"></section>
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle 2 - Hoenn"
+						onClick="ScrollTo6()"></section>
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle 3 - Sinnoh"
+						onClick="ScrollTo10()"></section>
+			</section>
+			<section class="sep">
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle 4 - Unys"
+						onClick="ScrollTo14()"></section>
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle 5 - Kalos"
+						onClick="ScrollTo17()"></section>
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle 6 - Alola"
+						onClick="ScrollTo20()"></section>
+			</section>
+			<section class="sep">
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle 7 - Les Voyages"
+						onClick="ScrollTo23()"></section>
+				<section class="cycle"><input class="cycleb" type="button" value="Cycle HS - Hors-Série"
+						onClick="ScrollToOG()"></section>
+			</section>
+		</section>
+	</section>
+	<section class="s1n">
+		<h1 id="Saison1"><img src="img/1.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 83 épisodes, 1 film, 1 TV Spécial</p>
+			<p>+ Qualité vidéo : TV (480p)</p>
+			<p>+ Langue audio : Français</p>
+			<p>+ Épisodes 18, 35 & 38 en VOSTFR</p>
+			<h3>Problèmes :</h3>
+			<p>+ Problèmes de synchro vidéo/audio</p>
+			<p>+ Épisodes 18 et 35 non disponibles <br>(à ajouter)</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar1.png">
+		</section>
+	</section>
+	<section class="s2n">
+		<h1 id="Saison2"><img src="img/2.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 35 épisodes, 1 film
+			<p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar2.png">
+		</section>
+	</section>
+	<section class="s3n">
+		<h1 id="Saison3"><img src="img/3.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 41 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar3.png">
+		</section>
+	</section>
+	<section class="s4n">
+		<h1 id="Saison4"><img src="img/4.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 52 épisodes, 2 films</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar4.png">
+		</section>
+	</section>
+	<section class="s5n">
+		<h1 id="Saison5"><img src="img/5.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 65 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar5.png">
+		</section>
+	</section>
+	<section class="s6n">
+		<h1 id="Saison6"><img src="img/6.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 40 épisodes, 1 film</p>
+			<p>+ Qualité vidéo : Full HD (1080p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar6.png">
+		</section>
+	</section>
+	<section class="s7n">
+		<h1 id="Saison7"><img src="img/7.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 52 épisodes, 1 film</p>
+			<p>+ Qualité vidéo : Full HD (1080p) <br>(5 épisodes)</p>
+			<p>+ Qualité vidéo : TV (480p) <br>(47 épisodes)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p>+ Une seule partie de la série est<br> en HD.<br>Le reste en qualité classique.<br>Amélioration possible grâce aux <br>épisodes américains.</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar7.png">
+		</section>
+	</section>
+	<section class="s8n">
+		<h1 id="Saison8"><img src="img/8.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 52 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar8.png">
+		</section>
+	</section>
+	<section class="s9n">
+		<h1 id="Saison9"><img src="img/9.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 47 épisodes, 2 films</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar9.png">
+		</section>
+	</section>
+	<section class="s10n">
+		<h1 id="Saison10"><img src="img/10.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 51 épisodes, 1 film</p>
+			<p>+ Qualité vidéo : HD (720p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar10.png">
+		</section>
+	</section>
+	<section class="s11n">
+		<h1 id="Saison11"><img src="img/11.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 52 épisodes, 1 film</p>
+			<p>+ Qualité vidéo : HD (720p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar11.png">
+		</section>
+	</section>
+	<section class="s12n">
+		<h1 id="Saison12"><img src="img/12.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 52 épisodes, 1 film</p>
+			<p>+ Qualité vidéo : TV (480p) <br>(français, corrompu)</p>
+			<p>+ Qualité vidéo : HD (720p) <br>(américain)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p>+ Qualité image instable en français.<br>Amélioration possible avec les <br>épisodes américains.</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar12.png">
+		</section>
+	</section>
+	<section class="s13n">
+		<h1 id="Saison13"><img src="img/13.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 34 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar13.png">
+		</section>
+	</section>
+	<section class="s14n">
+		<h1 id="Saison14"><img src="img/14.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 48 épisodes, 2 films</p>
+			<p>+ Qualité vidéo : HD (720p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p>Problème de désynchronication <br>des frames.<br> Effet de flou/imprécision.</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar14.png">
+		</section>
+	</section>
+	<section class="s15n">
+		<h1 id="Saison15"><img src="img/15.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 49 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar15.png">
+		</section>
+	</section>
+	<section class="s16n">
+		<h1 id="Saison16"><img src="img/16.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 45 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar16.png">
+		</section>
+	</section>
+	<section class="s17n">
+		<h1 id="Saison17"><img src="img/17.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 48 épisodes, 1 film & 1 TV Special</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar17.png">
+		</section>
+	</section>
+	<section class="s18n">
+		<h1 id="Saison18"><img src="img/18.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 45 épisodes, 1 film & 3 TV Specials</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar18.png">
+		</section>
+	</section>
+	<section class="s19n">
+		<h1 id="Saison19"><img src="img/19.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 49 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar19.png">
+		</section>
+	</section>
+	<section class="s20n">
+		<h1 id="Saison20"><img src="img/20.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 43 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar20.png">
+		</section>
+	</section>
+	<section class="s21n">
+		<h1 id="Saison21"><img src="img/21.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 49 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar21.png">
+		</section>
+	</section>
+	<section class="s22n">
+		<h1 id="Saison22"><img src="img/22.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 54 épisodes, 1 film</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar22.png">
+		</section>
+	</section>
+	<section class="s23n">
+		<h1 id="Saison23"><img src="img/23.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 48 épisodes</p>
+			<p>+ Qualité vidéo : Full HD (1080p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar23.png">
+		</section>
+	</section>
+	<section class="s24n">
+		<h1 id="Saison24"><img src="img/24.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 41 épisodes</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar24.png">
+		</section>
+	</section>
+	<section class="s25n">
+		<h1 id="Saison25"><img src="img/25.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ ?? épisodes</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/bar25.png">
+		</section>
+	</section>
+	<section class="chn">
+		<h1 id="Chronicles"><img src="img/ch.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 22 épisodes</p>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/barch.png">
+		</section>
+	</section>
+	<section class="sogn">
+		<h1 id="SaisonOG"><img src="img/og.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 4 épisodes</p>
+			<p>+ Qualité vidéo : HD (720p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p>+ Affichages et interfaces en japonais.<br>Apparitions de texte japonais à l'écran.</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/barog.png">
+		</section>
+	</section>
+	<section class="sgen">
+		<h1 id="SaisonGE"><img src="img/ge.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 18 épisodes</p>
+			<p>+ Qualité vidéo : Full HD (1080p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p>+ Outro de la Chaîne YouTube Pokémon <br>à retirer</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/barge.png">
+		</section>
+	</section>
+	<section class="sacn">
+		<h1 id="SaisonAC"><img src="img/ac.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 8 épisodes</p>
+			<p>+ Qualité vidéo : Full HD (1080p)</p>
+			<p>+ Langue audio : Français/Japonais</p>
+			<h3>Problèmes :</h3>
+			<p>+ VF non disponible pour l'épisode 8.</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/barac.png">
+		</section>
+	</section>
+	<section class="sevn">
+		<h1 id="SaisonEV"><img src="img/ev.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ 8 épisodes</p>
+			<p>+ Qualité vidéo : Full HD (1080p)</p>
+			<p>+ Langue audio : Français</p>
+			<h3>Problèmes :</h3>
+			<p><i>Informations non disponibles.</i></p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/barev.png">
+		</section>
+	</section>
+	<section class="snhn">
+		<h1 id="SaisonNH"><img src="img/nh.png"></h1>
+		<section class="notes">
+			<h3>Détails :</h3>
+			<p>+ ?? épisodes</p>
+			<p>+ Qualité vidéo : Full HD (1080p)</p>
+			<p>+ Langue audio : Japonais</p>
+			<h3>Problèmes :</h3>
+			<p>+ Pas de VF.</p>
+			<h3>Avancée du revisionnage intégral :</h3>
+			<img src="img/barnh.png">
+		</section>
+	</section>
+	<script src="app.js"></script>
