@@ -304,6 +304,9 @@ body,ul{
 	font-size:28px;
 	margin-left: 450px;
 }
+.slide3{
+	display:none;
+}
 .corpswiki{
 	display:flex;
 	justify-content: space-between;

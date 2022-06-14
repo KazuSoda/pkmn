@@ -30,29 +30,39 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background: linear-gradient(to right,rgb(102, 2, 252),rgb(220, 127, 236));
-        padding-top: 0px;
-        padding-bottom: 60px;
-        padding-left: 0px;
-        padding-right: 0px;
-    }
-    .slide2{
-        display:flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
         background: linear-gradient(to right,rgb(20, 52, 164),rgb(100, 149, 237));
         padding-top: 0px;
         padding-bottom: 60px;
         padding-left: 0px;
         padding-right: 0px;
     }
-    .slide2 h1{
+    .slide3{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to right,rgb(102, 2, 252),rgb(220, 127, 236));
+        padding-top: 0px;
+        padding-bottom: 60px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .part1{
+        display:flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+    .part2{
+        display:flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+    .slide3 h1{
         font-size: 38px;
         padding-top:75px;
         color:white;
     }
-    .slide2 p{
+    .slide3 p{
         font-size:28px;
         margin-left: 0px;
         color:white;
@@ -60,8 +70,11 @@
     .slide1 h1{
         font-size: 16px;
     }
-    .slide2 h1{
+    .slide3 h1{
         font-size: 16px;
+    }
+    .slide2{
+        display:none;
     }
     .lireinfos{
         background-color: darkred;
