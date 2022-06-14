@@ -50,12 +50,12 @@
     .part1{
         display:flex;
         justify-content: center;
-        flex-direction: row;
+        flex-direction: column;
     }
     .part2{
         display:flex;
         justify-content: center;
-        flex-direction: row;
+        flex-direction: column;
     }
     .slide3 h1{
         font-size: 38px;
