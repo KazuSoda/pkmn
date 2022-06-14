@@ -23,9 +23,20 @@
         padding-right: 25px;
         padding-bottom: 20px;
         padding-top: 20px;
-        font-size: 12px;
+        font-size: 15px;
     }
     .slide1{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to right,rgb(102, 2, 252),rgb(220, 127, 236));
+        padding-top: 0px;
+        padding-bottom: 60px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .slide2{
         display:flex;
         flex-direction: column;
         justify-content: center;
@@ -36,7 +47,9 @@
         padding-left: 0px;
         padding-right: 0px;
     }
-
+    .part1 h1{
+        font-size: 16px;
+    }
     .lireinfos{
         background-color: darkred;
         box-align: center;

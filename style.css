@@ -101,15 +101,7 @@ body,ul{
 	padding: 0;
 	background-color: rgb(27,29,31);
 }
-.slide1{
-	display:flex;
-	justify-content: space-between;
-	background: linear-gradient(to right,rgb(20, 52, 164),rgb(100, 149, 237));
-	padding-top: 75px;
-	padding-bottom: 150px;
-	padding-left: 80px;
-	padding-right: 80px;
-}
+
 .banniereperso{
 	display:flex;
 	justify-content: center;
@@ -172,6 +164,15 @@ body,ul{
 	padding-top:25px;
 	color:white;
 }
+.slide1{
+	display:flex;
+	justify-content: space-between;
+	background: linear-gradient(to right,rgb(20, 52, 164),rgb(100, 149, 237));
+	padding-top: 75px;
+	padding-bottom: 150px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
 .slide1 h1{
 	font-size: 38px;
 	padding-top:75px;
@@ -180,6 +181,25 @@ body,ul{
 .slide1 p{
 	font-size:28px;
 	margin-right: 450px;
+	color:white;
+}
+.slide2{
+	display:flex;
+	justify-content: space-between;
+	background: linear-gradient(to right,rgb(102, 2, 252),rgb(220, 127, 236));
+	padding-top: 75px;
+	padding-bottom: 150px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+.slide2 h1{
+	font-size: 38px;
+	padding-top:75px;
+	color:white;
+}
+.slide2 p{
+	font-size:28px;
+	margin-left: 450px;
 	color:white;
 }
 .slide3{
