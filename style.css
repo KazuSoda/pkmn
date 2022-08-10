@@ -287,6 +287,11 @@ body,ul{
 .part2{
 	text-align: right;
 }
+.part1{
+	display:flex;
+	justify-content: center;
+	flex-direction: column;
+}
 .slide2{
 	display:flex;
 	justify-content: space-between;
@@ -1370,7 +1375,37 @@ body,ul{
 	letter-spacing: 4px;
 	padding-top:25px;
 }
-
+.saisonpt{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.saisonpt img{
+	width: 200px;
+}
+.spt{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(51, 24, 1),rgb(255, 94, 0));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.spt img{
+	width:350px;
+}
+.spt h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
 .bilan{
 	display:flex;
 	justify-content: center;
@@ -2258,5 +2293,24 @@ body,ul{
 	padding-top:25px;
 }
 .snhn img{
+	width:400px;
+}
+.snpt{
+	display:flex;
+	justify-content: left;
+	align-items: center;
+	background: linear-gradient(to right,rgb(56, 18, 3),rgb(224, 105, 7));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	padding-bottom: 25px;
+	padding-left: 80px;
+}
+.snpt h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.snpt img{
 	width:400px;
 }
