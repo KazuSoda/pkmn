@@ -1,2 +1,85 @@
-1|1|Le départ|ポケモン！きみにきめた！|1er avril 1997|5 septembre 1999
-1|2|Pokémon aux urgences|たいけつ！ポケモンセンター！|8 avril 1997|1999
+1|0001|Le départ|ポケモン！きみにきめた！|1er avril 1997|5 septembre 1999|
+1|0002|Pokémon aux urgences|たいけつ！ポケモンセンター！|8 avril 1997|1999|
+1|0003|Capture du premier Pokémon|ポケモン ゲットだぜ！|15 avril 1997|1999|
+1|0004|Le défi du samouraï|サムライしょうねんのちょうせん！|22 avril 1997|1999|
+1|0005|Confrontation à Argenta|ニビジムのたたかい！|29 avril 1997|1999|
+1|0006|La Pierre Lune|ピッピとつきのいし|6 mai 1997|1999|
+1|0007|Les fleurs d'eau d'Azuria|ハナダシティのすいちゅうか|13 mai 1997|1999|
+1|0008|Le chemin qui conduit à la Ligue Pokémon|ポケモンリーグへのみち|20 mai 1997|1999|
+1|0009|L'école crève-cœur|ポケモンひっしょうマニュアル|27 mai 1997|1999|
+1|0010|Le village caché|かくれざとのフシギダネ|3 juin 1997|1999|
+1|0011|Le Pokémon abandonné|はぐれポケモン・ヒトカゲ|10 juin 1997|1999|
+1|0012|Sans maître, ni loi|ゼニガメぐんだんとうじょう！|17 juin 1997|1999|
+1|0013|Le mystère du phare|マサキのとうだい|24 juin 1997|1999|
+1|0014|Confrontation électrique|でんげきたいけつ！クチバジム|1er juillet 1997|1999|
+1|0015|Bataille à bord du Sainte Anne|サントアンヌごうのたたかい！|8 juillet 1997|1999|
+1|0016|Naufrage Pokémon|ポケモンひょうりゅうき！|15 juillet 1997|1999|
+1|0017|L'île des Pokémon géants|きょだいポケモンのしま!?|22 juillet 1997|1999|
+1|0018|La beauté et la plage|アオプルコのきゅうじつ|29 juillet 1997|Supprimé|
+1|0019|Tentacool et Tentacruel|メノクラゲドククラゲ|5 août 1997|1999|
+1|0020|Le fantôme de la jeune fille|ゆうれいポケモンとなつまつり|12 août 1997|1999|
+1|0021|Un Pokémon amoureux|バイバイバタフリー|19 août 1997|1999|
+1|0022|Quand la télékinésie s'en mêle|ケーシィ！ちょうのうりょくたいけつ！|26 août 1997|1999|
+1|0023|La tour de la terreur|ポケモンタワーでゲットだぜ！|2 septembre 1997|1999|
+1|0024|La revanche|ゴーストVSエスパー！|9 septembre 1997|1999|
+1|0025|Une rencontre mouvementée|おこらないでねオコリザル！|16 septembre 1997|1999|
+1|0026|Un parfum de victoire|エリカとクサイハナ|23 septembre 1997|1999|
+1|0027|Sommeil sur la ville|スリーパーとポケモンがえり!?|30 septembre 1997|1999|
+1|0028|Les Pokémon changent de look !|ロコン！ブリーダーたいけつ！|7 octobre 1997|1999|
+1|0029|Le Pokémon qui a du punch !|かくとうポケモン！だいバトル！|14 octobre 1997|1999|
+1|0030|Coup de foudre magnétique|コイルはでんきネズミのユメをみるか!?|21 octobre 1997|1999|
+1|0031|Barrage contre Pokémon|ディグダがいっぱい！|28 octobre 1997|1999|
+1|0032|Le Ninja Pokémon|セキチクにんじゃたいけつ！|4 novembre 1997|1999|
+1|0033|Le Poké-marathon|ほのおのポケモンだいレース！|11 novembre 1997|1999|
+1|0034|L'enfant sauvage|ガルーラのこもりうた|18 novembre 1997|1999|
+1|0035|La légende de Minidraco|ミニリュウのでんせつ|25 novembre 1997|Supprimé|
+1|0036|La bande des bicyclettes|あらしのサイクリングロード|2 décembre 1997|1999|
+1|0037|Le manoir mystérieux|メタモンとものまねむすめ|9 décembre 1997|1999|
+1|0038|Le Soldat virtuel Porygon|でんのうせんしポリゴン|16 décembre 1997|Supprimé|
+1|0039|Au revoir, Pikachu|ピカチュウのもり|16 avril 1998|1999|
+1|0040|La montagne de l'Évolution|イーブイ４きょうだい|16 avril 1998|1999|
+1|0041|Sommeil sans faim|おきろ！カビゴン！|23 avril 1998|1999|
+1|0042|Sombreville|たいけつ！ポケモンジム！|30 avril 1998|1999|
+1|0043|Un Pokémon tout n'œuf|ナッシーぐんだんだいこうしん！|7 mai 1998|1999|
+1|0044|La potion miracle|パラスとパラセクト！|14 mai 1998|1999|
+1|0045|Une jolie berceuse|うたって！プリン！|21 mai 1998|1999|
+1|0046|L'attaque du Pokémon préhistorique|ふっかつ!? かせきポケモン！|28 mai 1998|1999|
+1|0047|Urgence à l'hôpital|ラッキーのカルテ|4 juin 1998|1999|
+1|0048|Un sacré mariage|ガーディとコジロウ|11 juin 1998|1999|
+1|0049|Recette aux poireaux|カモネギのカモ|18 juin 1998|1999|
+1|0050|Œuf surprise|トゲピーはだれのもの!?|25 juin 1998|1999|
+1|0051|Le jardin mystérieux|フシギダネのふしぎのはなぞの|2 juillet 1998|1999|
+1|0052|L'unité d'élite K 9|けいさつけんガーディ|16 juillet 1998|1999|
+1|0053|Le chasseur d'image|シャッターチャンスはピカチュウ|23 juillet 1998|1999|
+1|0054|Ultime épreuve|ポケモンけんていしけん !?|30 juillet 1998|1999|
+1|0055|Le secret du centre d'élevage|そだてやのひみつ！|6 août 1998|1999|
+1|0056|La guerre des princesses|げきとう！ポケモンひなまつり|9 juillet 1998|2000|
+1|0057|Un héros au poil|こどものひだよ！ぜんいんしゅうごう！|2000|
+1|0058|Le champion des devinettes|もえろ！グレンジム！|13 août 1998|2000|
+1|0059|Panique volcanique|けっせん！グレンジム！|20 août 1998|2000|
+1|0060|L'île des Pokémon Tortues|カメックスのしま|27 août 1998|2000|
+1|0061|La sirène magique|ハナダジム！すいちゅうのたたかい！|3 septembre 1998|2000|
+1|0062|Les envahisseurs|ピッピVSプリン|10 septembre 1998|2000|
+1|0063|L'arène Team Rocket|トキワジム！さいごのバッジ！|17 septembre 1998|2000|
+1|0064|Quel cirque !|ポケモンサーカスのバリヤード|24 septembre 1998|2000|
+1|0065|Des joujoux par milliers|ルージュラのクリスマス|5 octobre 1998|2000|
+1|0066|Tempête de neige|イワークでビバーク|2000|
+1|0067|Règlement de compte à Poké Corrall|ライバルたいけつ！オーキドけんきゅうじょ|8 octobre 1998|2000|
+1|0068|Le mystère de l'évolution|ヤドンがヤドランになるとき|15 octobre 1998|2000|
+1|0069|Le Pi-Kahuna|なみのりピカチュウのでんせつ|22 octobre 1998|2000|
+1|1er film|Pokémon : Le film (Mewtwo contre Mew)|劇場版ポケットモンスター ミュウツーの逆襲|18 juillet 1998 (cinéma) 23 juin 2000 (DVD)|5 avril 2000 (cinéma) 14 novembre 2000 (DVD)|
+1|0070|Talents cachés|しょくぶつえんのクサイハナ|29 octobre 1998|2000|
+1|0071|Lumière ! Moteur ! Action !|ポケモン・ザ・ムービー！|5 novembre 1998|2000|
+1|0072|Hollywood, me voilà !|ニャースのあいうえお|12 novembre 1998|2000|
+1|0073|Le secret|してんのう・シバ・とうじょう！|19 novembre 1998|2000|
+1|0074|Le mystère enfoui de Pokémonpolis|げきとつ！ちょうこだいポケモン|26 novembre 1998|2000|
+1|0075|Tombés sur un os !|ガラガラのホネこんぼう|3 décembre 1998|2000|
+1|0076|La Team Rocket met le feu|ファイヤー！ポケモンリーグかいかいしき！|10 décembre 1998|2000|
+1|0077|Ligue Pokémon Premier tour|ポケモンリーグかいまく！みずのフィールド|17 décembre 1998|2000|
+1|0078|Le feu et la glace|こおりのフィールド！ほのおのたたかい！|24 décembre 1998|2000|
+1|Spécial|Les Pokémon à la veille de Nouvel An !|おおみそうかだよ！　ポケットモンスターアンコール|1er janvier 1999|Supprimé
+1|0079|Quatrième tour décisif|くさのフィールド！いがいなきょうてき！|2000|
+1|0080|Un nouvel ami|ライバルとうじょう!|7 janvier 1999|2000|
+1|0081|Amis ou ennemis ?|セキエイスタジアム！VSヒロシ！|14 janvier 1999|2000|
+1|0082|Amis malgré tout|ポケモンリーグ！さいごのたたかい！|21 janvier 1999|2000|
+1|0083|Alerte au Bourg Palette|マサラタウン！あらたなるたびだち|28 janvier 1999|2000|
