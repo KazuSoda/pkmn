@@ -198,8 +198,32 @@ function AfficherMasquer24() {
     else
         divInfo.style.display = 'none';
 }
+function AfficherMasquerArceus() {
+    divInfo = document.getElementById('arceusch');
+
+    if (divInfo.style.display == 'none')
+        divInfo.style.display = 'flex';
+    else
+        divInfo.style.display = 'none';
+}
 function AfficherMasquer25() {
     divInfo = document.getElementById('saison25');
+
+    if (divInfo.style.display == 'none')
+        divInfo.style.display = 'flex';
+    else
+        divInfo.style.display = 'none';
+}
+function AfficherMasquerAim() {
+    divInfo = document.getElementById('aimtobe');
+
+    if (divInfo.style.display == 'none')
+        divInfo.style.display = 'flex';
+    else
+        divInfo.style.display = 'none';
+}
+function AfficherMasquer26() {
+    divInfo = document.getElementById('horizons');
 
     if (divInfo.style.display == 'none')
         divInfo.style.display = 'flex';
@@ -240,6 +264,14 @@ function AfficherMasquerEV() {
 }
 function AfficherMasquerNH() {
     divInfo = document.getElementById('saisonnh');
+
+    if (divInfo.style.display == 'none')
+        divInfo.style.display = 'flex';
+    else
+        divInfo.style.display = 'none';
+}
+function AfficherMasquerPT() {
+    divInfo = document.getElementById('saisonpt');
 
     if (divInfo.style.display == 'none')
         divInfo.style.display = 'flex';
@@ -318,8 +350,17 @@ function ScrollTo23() {
 function ScrollTo24() {
     document.getElementById("Saison24").scrollIntoView({ behavior: "smooth" });
 }
+function ScrollToArceus() {
+    document.getElementById("Arceus").scrollIntoView({ behavior: "smooth" });
+}
 function ScrollTo25() {
     document.getElementById("Saison25").scrollIntoView({ behavior: "smooth" });
+}
+function ScrollToAim() {
+    document.getElementById("Aim").scrollIntoView({ behavior: "smooth" });
+}
+function ScrollTo26() {
+    document.getElementById("SaisonHZ").scrollIntoView({ behavior: "smooth" });
 }
 function ScrollToChronicles() {
     document.getElementById("Chronicles").scrollIntoView({ behavior: "smooth" });
@@ -338,4 +379,7 @@ function ScrollToOG() {
 }
 function ScrollToNH() {
     document.getElementById("SaisonNH").scrollIntoView({ behavior: "smooth" });
+}
+function ScrollToPT() {
+    document.getElementById("SaisonPT").scrollIntoView({ behavior: "smooth" });
 }

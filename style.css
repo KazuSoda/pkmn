@@ -1207,6 +1207,37 @@ body,ul{
 	letter-spacing: 4px;
 	padding-top:25px;
 }
+.arceusch{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.arceusch img{
+	width: 100px;
+}
+.arceus img{
+	width: 400px;
+}
+.arceus{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(68, 64, 5),rgb(252, 248, 4));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.arceus h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
 .saison25{
 	padding-left: 50px;
 	padding-right: 50px;
@@ -1231,6 +1262,65 @@ body,ul{
 	padding-bottom: 25px;
 }
 .s25 h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.aimtobe{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.aimtobe img{
+	width: 200px;
+}
+.aim img{
+	width: 400px;
+}
+.aim{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(10, 68, 5),rgb(4, 252, 25));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.aim h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.horizons{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top:75px;
+	padding-bottom:25px;
+	display:none;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.hz img{
+	width: 400px;
+}
+.hz{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,rgb(255, 0, 212),rgb(224, 162, 209));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	flex-direction: column;
+	padding-bottom: 25px;
+}
+.hz h1{
 	font-size: 38px;
 	letter-spacing: 4px;
 	padding-top:25px;
@@ -1684,9 +1774,10 @@ body,ul{
 	font-size: 25px;
 }
 .sep{
-	display: flex;
+	display: table-column;
 	justify-content: center;
 	align-items: center;
+
 }
 .cycleb:hover{
 	background: darkred;
@@ -2180,6 +2271,44 @@ body,ul{
 }
 .s25n img{
 	width:400px;
+}
+.aimn{
+	display:flex;
+	justify-content: left;
+	align-items: center;
+	background: linear-gradient(to right,rgb(4, 82, 252),rgb(5, 6, 68));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	padding-bottom: 25px;
+	padding-left: 80px;
+}
+.aimn h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.aimn img{
+	width:400px;
+}
+.hzn{
+	display:flex;
+	justify-content: left;
+	align-items: center;
+	background: linear-gradient(to right,rgb(4, 21, 252),rgb(255, 51, 204));
+	letter-spacing: 2px;
+	font-size: 20px;
+	color:white;
+	padding-bottom: 25px;
+	padding-left: 80px;
+}
+.hzn h1{
+	font-size: 38px;
+	letter-spacing: 4px;
+	padding-top:25px;
+}
+.hzn img{
+	width: 400px;
 }
 .chn{
 	display:flex;
