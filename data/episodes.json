@@ -1,5 +1,4 @@
-{
-	"seasons": [
+[
 	{
 		"season": 1,
 		"season_name": "La Ligue Indigo",
@@ -961,5 +960,5 @@
 		"is_obtained": true,
 		"person": "Celien"
 		}]
-	}]
-}
+	}
+]
